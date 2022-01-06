@@ -86,14 +86,16 @@ footer{
     color: rgb(228, 247, 229);
 }
 footer h1{
-    font-family: 'Cookie', cursive;
+    font-family: ;
     font-size: 50px;
+    margin: 0 auto;
     padding-top: 10px;
 }
 #fotter-2022{
     color:rgb(255, 123, 0);
     padding: 10px;
 }
+
 .biography{
     background-color: rgba(66, 63, 61, 0.13);
     border-radius: 15px;
@@ -104,6 +106,7 @@ footer h1{
 .biography-part-1{
     margin-left:70px;
     width: 225px;
+    height: 400px;
     float: left;
     
 }
@@ -113,7 +116,8 @@ footer h1{
     padding: 30px;
     width: auto;
     height: 500px;
-    border-radius: 15px;
+    margin-right: 17px;
+    border-radius: 0px;
 }
 
 .biography h3{
