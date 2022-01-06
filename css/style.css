@@ -26,15 +26,17 @@ p{
 }
 .flexible-section{
     display: flex;
+    margin: 0 40px 100px 40px;
 }
 .half-width{
-    width: 40%;
+    width: 45%;
     margin: 0 auto;
 }
 .button{
     text-decoration: none;
     background-color: orange;
     padding: 15px 30px;
+    margin-top: 20px;
     border-radius: 7px;
     font-size: 30px;
     color: whitesmoke;
@@ -56,12 +58,15 @@ p{
 h3{
     font-size: 35px;
 }
-#for-bg-color-1{
+#card-1{
     background-color: rgba(219, 213, 179, 0.486);
 }
-#for-bg-color-2{
+#card-2{
     background-color: rgba(178, 204, 214, 0.527);
 }
-#for-bg-color-3{
+#card-3{
     background-color: rgba(199, 166, 192, 0.568);
+}
+#coding{
+    width: 500px;
 }
